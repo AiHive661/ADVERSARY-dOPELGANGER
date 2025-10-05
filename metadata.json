@@ -1,0 +1,5 @@
+{
+  "name": "Adversary Doppelgänger Orchestrator",
+  "description": "An orchestrator for authorized defensive simulations. It generates adversary personas, campaigns, lures, and reports to help test defensive postures in a safe, simulated environment.",
+  "requestFramePermissions": []
+}
